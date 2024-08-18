@@ -2,4 +2,5 @@ Rencana konten wpu
 
 - bahasa c saya mau buat untuk operator
 - bikin codingan keren
+- struktur data dasar
 - java script
