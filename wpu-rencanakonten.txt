@@ -2,7 +2,10 @@ Rencana konten wpu
 
 - bahasa c saya mau buat untuk operator
 - bikin codingan keren
-^mau saya edit
-- struktur data dasar
+^tambahkan codingan c
 ^react
+- struktur data dasar
 ^laravel
+- java script
+-pyhton
+
